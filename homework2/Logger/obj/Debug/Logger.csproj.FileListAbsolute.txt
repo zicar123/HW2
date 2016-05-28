@@ -1,0 +1,4 @@
+E:\Documents\Visual Studio 2010\Projects\homework2\Logger\bin\Debug\Logger.dll
+E:\Documents\Visual Studio 2010\Projects\homework2\Logger\bin\Debug\Logger.pdb
+E:\Documents\Visual Studio 2010\Projects\homework2\Logger\obj\Debug\Logger.dll
+E:\Documents\Visual Studio 2010\Projects\homework2\Logger\obj\Debug\Logger.pdb

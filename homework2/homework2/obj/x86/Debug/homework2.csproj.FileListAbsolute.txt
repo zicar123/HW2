@@ -1,0 +1,9 @@
+E:\Documents\Visual Studio 2010\Projects\homework2\homework2\obj\x86\Debug\homework2.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2010\Projects\homework2\homework2\bin\Debug\homework2.exe
+E:\Documents\Visual Studio 2010\Projects\homework2\homework2\bin\Debug\homework2.pdb
+E:\Documents\Visual Studio 2010\Projects\homework2\homework2\obj\x86\Debug\homework2.exe
+E:\Documents\Visual Studio 2010\Projects\homework2\homework2\obj\x86\Debug\homework2.pdb
+E:\Documents\Visual Studio 2010\Projects\homework2\homework2\bin\Debug\AddressBook.dll
+E:\Documents\Visual Studio 2010\Projects\homework2\homework2\bin\Debug\Logger.dll
+E:\Documents\Visual Studio 2010\Projects\homework2\homework2\bin\Debug\AddressBook.pdb
+E:\Documents\Visual Studio 2010\Projects\homework2\homework2\bin\Debug\Logger.pdb
