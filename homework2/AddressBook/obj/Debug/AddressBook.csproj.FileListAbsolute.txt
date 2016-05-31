@@ -2,3 +2,4 @@ E:\Documents\Visual Studio 2010\Projects\homework2\AddressBook\bin\Debug\Address
 E:\Documents\Visual Studio 2010\Projects\homework2\AddressBook\bin\Debug\AddressBook.pdb
 E:\Documents\Visual Studio 2010\Projects\homework2\AddressBook\obj\Debug\AddressBook.dll
 E:\Documents\Visual Studio 2010\Projects\homework2\AddressBook\obj\Debug\AddressBook.pdb
+E:\Documents\Visual Studio 2010\Projects\homework2\AddressBook\obj\Debug\AddressBook.csprojResolveAssemblyReference.cache

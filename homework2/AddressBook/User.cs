@@ -16,10 +16,25 @@ namespace AddressBook
         public string Email { get; set; }
         #endregion
 
+        public User()
+        {
+            this.LastName = "";
+            this.FirstName = "";
+            this.Birthdate = default(DateTime);
+            this.TimeAdded = default(DateTime);
+            this.City = "";
+            this.Address = "";
+            this.PhoneNumber = "";
+            this.Gender = "";
+            this.Email = "";
+        }
+
         public static User Fabric()
         {
             return new User();
         }
+
+
 
         public static explicit operator User(object[] list)
         {
@@ -44,7 +59,7 @@ namespace AddressBook
             {
                 Console.WriteLine("Error while converting types. \n" + e.Message);
             }
-            return user ;
+            return user;
         }
     }
 }
